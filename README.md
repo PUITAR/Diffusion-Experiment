@@ -1,2 +1,2 @@
-# ParallelExperiment
-This repo is for my parallel algorithm class experiment.
+# Diffusion Experiment
+This repo is for my diffusion experiment.
